@@ -1,0 +1,9 @@
+{"Windows": [
+	{"WindowName": "C22(1)/747 Kostenrechnungskreis setzen", "Type": "OCR", "OcrButtonName": "x", "OcrOffset": "30", "TimeOutInSeconds": "10"}, 
+	{"WindowName": "C22(1)/747 Abbruch", "Type": "!FORCE", "TimeOutInSeconds": "10"}, 	
+	{"WindowName": "C22(1)/747 Kostenrechnungskreis setzen", "Type": "!HotKey", "HotKeyHoldButton": "", "HotKeyPressButton": "enter", "TimeOutInSeconds": "10", "DocLink": "https://pyautogui.readthedocs.io/en/latest/keyboard.html"}, 
+	{"WindowName": "Calculator", "Type": "!HotKey", "HotKeyHoldButton": "Alt", "HotKeyPressButton": "f4", "TimeOutInSeconds": "10", "DocLink": "https://pyautogui.readthedocs.io/en/latest/keyboard.html"},
+	{"WindowName": "Calculator", "Type": "!HotKey", "HotKeyHoldButton": "", "HotKeyPressButton": "1|2|3", "TimeOutInSeconds": "10", "DocLink": "https://pyautogui.readthedocs.io/en/latest/keyboard.html"}
+], 
+"DelayBeforeStartInSeconds": "3", 
+"AfterRunDeleteJPG": "False"}
